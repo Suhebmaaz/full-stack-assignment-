@@ -46,167 +46,63 @@
       "id": 1
     },
     {
-      "name": "asd",
-      "days": [
-        "Th"
-      ],
-      "frequency": 1,
-      "notes": "asdf",
-      "exercises": [
-        {
-          "id": "f7b3b90c-0e5b-41ec-bd46-c9636f5edcee",
-          "name": "Forward Lunge",
-          "sets": "03",
-          "reps": 0,
-          "holdTime": 0,
-          "side": "Left"
-        },
-        {
-          "id": "25ac11b8-99cd-40cd-9bb1-70b026a0cd42",
-          "name": "Knee Bends",
-          "sets": "03",
-          "reps": 0,
-          "holdTime": 0,
-          "side": "Left"
-        }
-      ],
-      "id": 8
-    },
-    {
-      "name": "asf",
-      "days": [
-        "T",
-        "F"
-      ],
-      "frequency": 1,
-      "notes": "asdf",
-      "exercises": [
-        {
-          "id": "0fab6322-054f-48ec-bf95-0946105bde28",
-          "name": "Push-Ups",
-          "sets": "03",
-          "reps": "03",
-          "holdTime": "03",
-          "side": "Right"
-        },
-        {
-          "id": "176a8cb9-5487-427f-9fb3-1d3a92cce39c",
-          "name": "Knee Bends",
-          "sets": "03",
-          "reps": "03",
-          "holdTime": 0,
-          "side": "Left"
-        }
-      ],
-      "id": 9
-    },
-    {
-      "name": "asdf",
-      "days": [],
-      "frequency": 1,
-      "notes": "",
-      "exercises": [
-        {
-          "id": "395d5984-2bd4-4952-a99d-47290c7d4412",
-          "name": "Forward Lunge",
-          "sets": 0,
-          "reps": 0,
-          "holdTime": 0,
-          "side": "Left"
-        },
-        {
-          "id": "8c91e1fa-0efb-4044-bc06-4dcc9bd6c4b1",
-          "name": "Pull-Ups",
-          "sets": 0,
-          "reps": 0,
-          "holdTime": 0,
-          "side": "Left"
-        }
-      ],
-      "id": 10
-    },
-    {
-      "name": "suheb",
-      "days": [
-        "W",
-        "F",
-        "M"
-      ],
-      "frequency": 1,
-      "notes": "asd",
-      "exercises": [
-        {
-          "id": "0cd14ccc-03b0-4183-bf98-67cc2231746f",
-          "name": "leg raise",
-          "sets": "03",
-          "reps": "03",
-          "holdTime": "03",
-          "side": "Left"
-        },
-        {
-          "id": "12642a08-895b-467c-834e-d8b90e10283a",
-          "name": "leg raise",
-          "sets": "03",
-          "reps": "03",
-          "holdTime": "03",
-          "side": "Right"
-        }
-      ],
-      "id": 5
-    },
-    {
-      "name": "suheb 44",
+      "name": "test 1",
       "days": [
         "T",
         "Th",
         "Sa"
       ],
-      "frequency": 1,
-      "notes": "hghgh",
+      "frequency": "6",
+      "notes": "test",
       "exercises": [
         {
-          "id": "391361f2-3795-4819-a296-f2cef6a5ec82",
-          "name": "crunchas",
-          "sets": "7",
-          "reps": "4",
+          "id": "95895d0b-6cc8-4f23-9ca1-9f94be8d0f9f",
+          "name": "Knee Bends",
+          "sets": "3",
+          "reps": "2",
           "holdTime": "12",
           "side": "Left"
         },
         {
-          "id": "50eeade7-5f37-483a-a4a4-a76a94785b06",
-          "name": "Push-Ups",
-          "sets": "4",
-          "reps": "7",
-          "holdTime": "22",
-          "side": "Left"
-        }
-      ],
-      "id": 6
-    },
-    {
-      "name": "test 4",
-      "days": [
-        "M",
-        "T",
-        "W",
-        "F",
-        "Th",
-        "Sa",
-        "Su"
-      ],
-      "frequency": "4",
-      "notes": "asdf",
-      "exercises": [
-        {
-          "id": "d4af7c04-521e-42bc-be53-2305de430160",
-          "name": "leg raise",
+          "id": "fc352713-4f3f-4130-b695-6e6882d20115",
+          "name": "Knee Bends",
           "sets": "3",
           "reps": "2",
-          "holdTime": "03",
-          "side": "Left"
+          "holdTime": "12",
+          "side": "Right"
         }
       ],
-      "id": 7
+      "id": 2
+    },
+    {
+      "name": "test 2",
+      "days": [
+        "M",
+        "W",
+        "F",
+        "Su"
+      ],
+      "frequency": "2",
+      "notes": "test 2",
+      "exercises": [
+        {
+          "id": "c58ed1d3-d3b9-4bb6-a0d7-c1a3d0288b8f",
+          "name": "Knee Bends",
+          "sets": "2",
+          "reps": "2",
+          "holdTime": "3",
+          "side": "Left"
+        },
+        {
+          "id": "70dc476f-1c68-4122-8ae0-73ef8a141a00",
+          "name": "Knee Bends",
+          "sets": "2",
+          "reps": "2",
+          "holdTime": "3",
+          "side": "Right"
+        }
+      ],
+      "id": 3
     }
   ]
 }
